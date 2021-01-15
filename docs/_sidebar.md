@@ -1,4 +1,3 @@
-* [首页](/)
 * [TypeScript](TypeScript.md)
 * [npm](npm.md)
 * [Vue](Vue.md)
