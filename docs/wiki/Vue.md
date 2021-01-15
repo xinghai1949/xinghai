@@ -7,8 +7,6 @@
 - Fran
 Fran
 
-Fran
-
 #### Quotes
 You! What have you been telling Kate? She thinks I'm
 the renaissance. I have to go along with all this

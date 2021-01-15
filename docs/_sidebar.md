@@ -1,7 +1,7 @@
 * [首页](/)
 * [TypeScript](wiki/TypeScript.md)
 * [npm](wiki/npm.md)
-* [Vue](wiki/vue.md)
+* [Vue](wiki/Vue.md)
 * [Vuex](wiki/Vuex.md)
 * [Vue Router](wiki/VueRouter.md)
 * [webpack](wiki/webpack.md)
