@@ -1,3 +1,4 @@
+* [link](/)
 * [TypeScript](TypeScript.md)
 * [npm](npm.md)
 * [Vue](Vue.md)
